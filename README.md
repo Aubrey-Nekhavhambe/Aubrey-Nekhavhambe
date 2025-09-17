@@ -7,7 +7,7 @@ This repository serves as a **portfolio of my academic projects, coursework, and
 
 ## 📂 Contents
 - **Operating Systems** – Shell scripting, Azure cloud labs, and OS concepts
-- - **Engineering Programming** – C, Java, Python, and Assembly code samples  
+- **Engineering Programming** – C, Java, Python, and Assembly code samples  
 - **Software Engineering** – Design principles, documentation, sample programs  
 - **Networking** – Configurations, simulations, and lab exercises  
 - **Digital Systems** – VHDL, Verilog, circuit design projects  
