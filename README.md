@@ -1,16 +1,23 @@
-## Hi there 👋
+# Computer Systems Engineering Portfolio
 
+Welcome! 👋  
 <!--
-**Aubrey-Nekhavhambe/Aubrey-Nekhavhambe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Aubrey Nekhavhambe**, a Computer Systems Engineering postgraduate from Vaal University of Technology.  
 
-Here are some ideas to get you started:
+This repository serves as a **portfolio of my academic projects, coursework, and technical skills** as I seek an **in-service training opportunity** to complete my qualification.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📂 Contents
+
+- **Operating Systems** – Shell scripting, Azure cloud labs, and OS concepts 
+- **Engineering Programming** – C, Java, Python, and Assembly code samples  
+- **Software Engineering** – Design principles, documentation, sample programs  
+- **Networking** – Configurations, simulations, and lab exercises  
+- **Digital Systems** – VHDL, Verilog, circuit design projects  
+
+## 🎯 Career Goal
+To gain practical industry experience, apply my knowledge in real-world environments, and grow into a well-rounded Computer Systems Engineer.  
+
+
+⭐ If you’re a recruiter or industry professional, please feel free to check my work or contact me for opportunities.
+
 -->
